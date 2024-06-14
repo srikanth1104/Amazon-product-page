@@ -1,0 +1,42 @@
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+.page {
+    margin: 20px;
+    display: flex;
+}
+.break {
+    color: #565959;
+}
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width:400px;
+    height:480px;
+    margin-right: 25px;
+}
+.title {
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+.page-author {
+    margin-top: 15px;
+}
+.link-c {
+    color: #007185;
+}
+.rating {
+    width: 120px;
+}
+.exp {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.page-detail {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 18px;
+}
